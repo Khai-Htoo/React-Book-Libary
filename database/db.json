@@ -1,0 +1,40 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "laravel",
+      "description": "This is description 1",
+      "categories": [
+        "travel",
+        "sport"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "nextjs",
+      "description": "This is description 2",
+      "categories": [
+        "travel",
+        "education"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "nestjs",
+      "description": "This is description 3",
+      "categories": [
+        "sport",
+        "education",
+        "travel"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Book title 4",
+      "description": "This is description 4",
+      "categories": [
+        "education"
+      ]
+    }
+  ]
+}
